@@ -2,7 +2,7 @@
 # Hi! I am Andrew! I am: 
 - Studying in [National Research ITMO University](https://en.itmo.ru/en/) in my 2nd year
 - Currently working on my important pet projects
-- Learning Kotlin and Java Advanced hard
+- Learning С# and Java Advanced hard
 - Opened for all interesting offers!
 - Obsessed with codding :)
 #
