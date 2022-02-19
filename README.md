@@ -1,9 +1,8 @@
 
 # Hi! I am Andrew! I am: 
 - Studying in [National Research ITMO University](https://en.itmo.ru/en/) in my 2nd year
-- Currently working on my important pet projects
-- Learning С# and Java Advanced hard
-- Opened for all interesting offers!
+- Learning **Java** and **C#** hard
+- Currently looking for junior|intern position
 - Obsessed with codding :)
 #
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewZzz24&count_private=true&show_icons=true&theme=nord)]()
