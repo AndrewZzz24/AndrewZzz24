@@ -3,7 +3,7 @@
 - Studying in [National Research ITMO University](https://en.itmo.ru/en/) in my 2nd year
 - Learning **Java** and **C#** hard
 - Currently looking for junior|intern position
-- Obsessed with algorithms and data structures :)
+- Obsessed with **algorithms and data structures** :)
 #
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewZzz24&count_private=true&show_icons=true&theme=nord)]()
 
