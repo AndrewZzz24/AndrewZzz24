@@ -1,6 +1,6 @@
 
 # Hi! I am Andrew and I am: 
-- Studying in [National Research ITMO University](https://en.itmo.ru/en/) in my 2nd year
+- Studying in [National Research ITMO University](https://en.itmo.ru/en/) in my 3rd year
 - Learning **Java** and **C#** hard
 - Currently looking for junior|intern position
 - Obsessed with **algorithms and data structures** :)
