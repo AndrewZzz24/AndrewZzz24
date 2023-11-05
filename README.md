@@ -1,13 +1,11 @@
-
-# Hi! I am Andrew and I am: 
-- Studying in [National Research ITMO University](https://en.itmo.ru/en/) in my 3rd year
-- Learning **Java** and **C#** hard
-- Currently looking for junior|intern position
-- Obsessed with **algorithms and data structures** :)
+# Hey! I'm Andrew and I'm: 
+- studying in [National Research ITMO University](https://en.itmo.ru/en/) in my final year
+- learning **Kotlin** and **Distributed Systems**
+- fascinated about distributed systems and cloud computing
 #
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewZzz24&count_private=true&show_icons=true&theme=nord)]()
 
-
+![visited](https://komarev.com/ghpvc/?username=AndrewZzz24&label=VISITED+ME:&style=flat&color=black)
 
 
 
