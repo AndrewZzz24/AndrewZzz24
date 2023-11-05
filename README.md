@@ -5,7 +5,7 @@
 #
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewZzz24&count_private=true&show_icons=true&theme=nord)]()
 
-![visited](https://komarev.com/ghpvc/?username=AndrewZzz24&label=VISITED+ME:&style=flat&color=black)
+![visited](https://komarev.com/ghpvc/?username=AndrewZzz24&label=VISITED+ME:&style=flat&color=blue)
 
 
 
